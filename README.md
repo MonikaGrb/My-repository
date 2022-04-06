@@ -1,7 +1,5 @@
 Portfolio
-About me
-
-My name is 
+About me 
 
 Tools
 
